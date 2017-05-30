@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">SampleChat</string>
+
+  <!--LOGIN_ACTIVITY-->
+  <string name="welcome">Welcome</string>
+  <string name="e_mail">E-mail</string>
+  <string name="log_in">Log In</string>
+  <string name="password">Password</string>
+  <string name="sign_up">Sign Up</string>
+  <string name="main">MAIN</string>
+
+
+</resources>
